@@ -1,0 +1,40 @@
+#para{
+    font-weight: bolder;
+color: black;
+font-size:18px;
+}
+
+.heading{
+    margin:0px;
+    font-size: 25px;
+    width:100%;
+    font-weight: bolder;
+   }
+   #name{
+    font-weight: bold;
+    font-size:22px;
+   }
+body{
+    background-size: cover;
+}
+#input{
+    border-radius: 10px;
+    width:370px;
+    height: 35px;
+    background-color: antiquewhite;
+}
+#finish {
+    font-size: 17px;
+    font-weight: bolder;
+}
+#number_of_objects, #status{
+    font-size: 25px;
+    font-weight: bolder;
+   
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
